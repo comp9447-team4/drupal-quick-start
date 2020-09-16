@@ -15,6 +15,12 @@ If you are on Windows, Cygwin / WSL may work but it may not be as smooth.
 * https://docs.microsoft.com/en-us/windows/wsl/install-win10
 * https://www.cygwin.com/
 
+If you are on Windows, it is preferred to use a VM. Hyper-V is available on 64-bit versions of Windows 10 Pro, Enterprise, and Education. Otherwise the university should offer VMWare Workstation Pro for free. VirtualBox is a free option if the others don't work.
+
+* https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/
+* https://taggi.cse.unsw.edu.au/FAQ/VMware_Academic_Program/
+* https://www.virtualbox.org/
+
 
 # Setup prerequisites
 This varies by OS but these instructions are for a Debian / Ubuntu based system.
