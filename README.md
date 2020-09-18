@@ -51,7 +51,7 @@ Assumes you have setup your IAM user with MFA enabled. If not follow: https://we
 
 ```
 sudo apt install python3 python3-pip
-pip3 install aws-cli
+pip3 install awscli
 
 cp aws-credentials.sample ~/.aws/credentials
 
